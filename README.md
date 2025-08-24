@@ -131,12 +131,4 @@ Client-Server-Chat-Application/
 
 **Jalal** - [GitHub Profile](https://github.com/J3l3l)
 
-## 🙏 Acknowledgments
 
-- Flask community for the excellent web framework
-- Socket.IO for WebSocket implementation
-- Avatar service providers for dynamic avatar generation
-
----
-
-**Note**: This is a development/demo application. For production use, consider implementing proper authentication, database persistence, and security measures.
